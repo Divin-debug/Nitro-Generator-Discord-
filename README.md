@@ -1,4 +1,4 @@
-# Discord Nitro Generator
+# Discord Nitro code Generator
 A discord nitro generator made with python requests
 
 ##### Requirements:
